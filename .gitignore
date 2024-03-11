@@ -1,0 +1,20 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+/.idea/*
+!/.idea/runConfigurations
+#*.iml
+*.iws
+*.ipr
+
+### Maven ###
+target/
+.mvn/
+mvnw*
